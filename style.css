@@ -9,6 +9,21 @@
     border: 4px solid yellow;
 }
 
-#play,#status {
+#play,#status,#restart{
     font-size: 18px;
+}
+
+.modal-dialogue {
+    width: 90%;
+}   
+
+.copy_right_footer
+{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    line-height: 3;
+    text-align: center;
 }
